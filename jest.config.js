@@ -2,6 +2,5 @@
 export default {
     testEnvironment: 'node',
     transform: {},  // Inga transformeringar, förutsatt att koden redan är giltig ESM
-    extensionsToTreatAsEsm: ['.js'] // Behandla .js-filer som ESM
   }
   
